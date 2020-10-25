@@ -1,0 +1,1 @@
+For reproducing Figure 3: terrorism_data.csv containing pageviews for all 48 terrorism-related articles from January 2012 to August 2014 
